@@ -7,15 +7,19 @@ This repository contains the data analysis for the EXAM03 assignment on baseline
 ```
 Rabbitions/
 ├── data/
-│   └── ships_inventory_iter1.csv     # Dataset
+│   ├── clean_it1_inventory.csv          # Dataset
+│   ├── clean_it2_inventory.csv          # Dataset
+│   ├── ship_inspections_iter2.csv       # Dataset
+│   ├── ship_performance_logs_iter3.csv  # Dataset
+│   └── ships_inventory_iter1.csv        # Dataset
 ├── notebooks/
-│   ├── it1.ipynb                     # Analysis notebook
-│   ├── it2.ipynb                     # Analysis notebook
-│   └── it3.ipynb                     # Analysis notebook
-├── venv/                             # Virtual environment (NOT uploaded)
-├── .gitignore                        # Ignore venv and cache
-├── README.md                         # Contains basic instructions
-└── requirements.txt                  # Python dependencies
+│   ├── it1.ipynb                        # Analysis notebook
+│   ├── it2.ipynb                        # Analysis notebook
+│   └── it3.ipynb                        # Analysis notebook
+├── venv/                                # Virtual environment (NOT uploaded)
+├── .gitignore                           # Ignore venv and cache
+├── README.md                            # Contains basic instructions
+└── requirements.txt                     # Python dependencies
 
 ```
 
